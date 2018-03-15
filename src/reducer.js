@@ -25,8 +25,7 @@ export default (state = initialState, action) => {
             feedback = 'Please enter a valid number.';
 
             return Object.assign({}, state, {
-                feedback,
-                guesses: [...state.guesses, guess]
+                feedback
             });
         }
 

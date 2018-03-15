@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<GuessList /> Should match its snapshot 1`] = `
+<ul
+  className="guessBox clearfix"
+  id="guessList"
+>
+  <li>
+    Guess 0
+  </li>
+  <li>
+    Guess 1
+  </li>
+  <li>
+    Guess 2
+  </li>
+  <li>
+    Guess 3
+  </li>
+  <li>
+    Guess 4
+  </li>
+  <li>
+    Guess 5
+  </li>
+  <li>
+    Guess 6
+  </li>
+  <li>
+    Guess 7
+  </li>
+  <li>
+    Guess 8
+  </li>
+  <li>
+    Guess 9
+  </li>
+</ul>
+`;

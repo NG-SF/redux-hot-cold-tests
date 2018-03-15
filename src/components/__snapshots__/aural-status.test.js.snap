@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<AuralStatus /> Should match its snapshot 1`] = `
+<p
+  aria-atomic="true"
+  aria-live="assertive"
+  className="visuallyhidden"
+  id="status-readout"
+/>
+`;
