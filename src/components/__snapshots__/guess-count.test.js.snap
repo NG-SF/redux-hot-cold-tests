@@ -4,7 +4,7 @@ exports[`<GuessCount /> Should match its snapshot 1`] = `
 <h2
   id="guessCount"
 >
-  You've made 
+  You have made 
   <span
     id="count"
   />
